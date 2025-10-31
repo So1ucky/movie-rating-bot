@@ -33,6 +33,8 @@ Start the app:
 python main.py
 ```
 
+![Usage Example](https://i.imgur.com/BXPnOtJ.png)
+
 ---
 
 # 🧩 Technologies Used
