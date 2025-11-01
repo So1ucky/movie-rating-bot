@@ -1,4 +1,4 @@
-# 🎬 Telegram Movie Rating Bot
+# 🎬 Telegram Movie Rating Bot (Windows)
 
 This is a Telegram bot that uses the OMDb API to retrieve information about a movie/series/game.
 
