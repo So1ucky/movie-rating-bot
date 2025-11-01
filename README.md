@@ -11,20 +11,27 @@ This is a Telegram bot that uses the OMDb API to retrieve information about a mo
 git clone https://github.com/So1ucky/movie-rating-bot
 ```
 
-### 2. Install dependencies:
+### 2. Create and Activate Virtual Environment:
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+```
+
+### 3. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Get your environment variables:
+### 4. Get your environment variables:
 Get your bot token via https://t.me/BotFather<br>
 Get your apikey via https://www.omdbapi.com/apikey.aspx
 
-### 4. Create .env file and set your environment variables:
+### 5. Create .env file and set your environment variables:
 ```bash
 BOT_TOKEN="XXX"
 API_KEY="XXX"
 ```
+
 ---
 
 # ⚙️ Usage
